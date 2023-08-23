@@ -20,44 +20,5 @@ The business application for this project is to help:
 1. Airlines to reduce costs and increase customer satisfaction
 2. Airports increase flight efficiency
 3. Passengers to get more accurate updates regarding their flights  
-
 through predicting a delay.
 
-## Getting Started
-
-### Dependencies
-
-* python
-* gdown
-* matplotlib
-* numpy
-* pandas
-* scikit-Learn
-* seaborn
-
-### Executing program
-
-* Run `notebooks/flight-delay-prediction.ipynb`
-
-## Report
-
-The report outlining the steps undertaken in this project can be found at  
-`reports/flight-delay-report.pdf`
-
-## Authors
-
-[Jovinder Singh](https://www.linkedin.com/in/jovindersingh/)
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-* [Dataset](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?datasetId=355)
-* [EDA](https://www.kaggle.com/code/adveros/flight-delay-eda-exploratory-data-analysis)
